@@ -20,9 +20,6 @@ export default defineConfig({
       }
     ],
 
-    footer: {
-      message: 'Built with VitePress',
-      copyright: '© 2026 Yingpeng Ma'
-    }
+    footer: { message: 'Built with <a href="https://vitepress.dev">VitePress</a>,   © 2026 Yingpeng Ma' }
   }
 })

@@ -3,7 +3,9 @@ layout: home
 
 hero:
   name: Yingpeng Ma
-  tagline: AI Engineer / Researcher focused on Industrial AI and Machine Learning Systems.
+  tagline: |
+    AI Engineer / Researcher focused on Industrial AI and Machine Learning Systems. 
+    cecibaldoni.github.io
 
   actions:
     - theme: brand

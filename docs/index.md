@@ -7,6 +7,11 @@ hero:
     AI Engineer / Researcher focused on Industrial AI and Machine Learning Systems. 
     cecibaldoni.github.io
 
+  image:
+    src: /imgs/avatar3.jpg
+    alt: my avatar
+
+  
   actions:
     - theme: brand
       text: Projects
@@ -26,6 +31,15 @@ features:
 
   - title: Representation Learning
     details: Siamese-network-based latent space similarity analysis and embedding learning.
+
+  - title: AI Systems
+    details: Dockerized AI workflows, Gradio interfaces, and reproducible ML pipelines.
+
+  - title: AI Systems
+    details: Dockerized AI workflows, Gradio interfaces, and reproducible ML pipelines.
+
+  - title: AI Systems
+    details: Dockerized AI workflows, Gradio interfaces, and reproducible ML pipelines.
 
   - title: AI Systems
     details: Dockerized AI workflows, Gradio interfaces, and reproducible ML pipelines.

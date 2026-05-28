@@ -10,7 +10,7 @@ hero:
     
 
   image:
-    src: /images/avatar1.jpg
+    src: /images/a1.png
     alt: my avatar
 
   

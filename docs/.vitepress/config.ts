@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'Yingpeng Ma',
   description: 'AI Research Portfolio',
+  base: '/portfolio-v2/',
 
   themeConfig: {
     nav: [

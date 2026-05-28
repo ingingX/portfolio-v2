@@ -45,7 +45,7 @@ Representation learning and latent-space similarity analysis using Siamese Netwo
 
 Attention-based forecasting pipeline for industrial sensor data.
 
-[View Project](./projects/forecasting)
+<!-- [View Project](./projects/forecasting) -->
 
 ---
 

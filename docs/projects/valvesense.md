@@ -1,4 +1,4 @@
-# ValveSense
+# ValveSense-v2
 
 Industrial anomaly detection system using:
 

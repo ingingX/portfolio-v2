@@ -1,5 +1,10 @@
 # About
 
+
+
+My academic background includes AI system analysis, Explainable AI (XAI), Human-Computer Interaction (HCI), Cybersecurity, Machine Learning, and Signal Processing. 
+Professionally, I have worked on practical AI solutions, LLM integration, enterprise systems engineering, backend development, and software testing for real-world industrial applications.
+
 I am an AI engineer and researcher interested in:
 
 - Industrial AI

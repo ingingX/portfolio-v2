@@ -2,46 +2,54 @@
 layout: home
 
 hero:
-  name: Yingpeng Ma
+  text: Yingpeng Ma
   tagline: |
-    AI Engineer / Researcher focused on Industrial AI and Machine Learning Systems. 
-    cecibaldoni.github.io
+    AI Researcher / Engineer,
+    focusing on Trustworthy and Human-Centered AI Systems for Complex Real-World Environments.
+
+    
 
   image:
-    src: /imgs/avatar3.jpg
+    src: /images/avatar1.jpg
     alt: my avatar
 
   
   actions:
     - theme: brand
-      text: Projects
-      link: /projects/valvesense
+      text: Selected Projects
+      link: /projects/
 
     - theme: alt
       text: GitHub
       link: https://github.com/ingingX
 
     - theme: alt
-      text: Resume
-      link: /resume
+      text: Curriculum Vitae
+      link: /resume/
 
 features:
-  - title: ValveSense
-    details: Industrial anomaly detection and forecasting system using CEEMDAN, SVR, and Attention LSTM.
+  - title: ValveSense-v2
+    details: ValveSense-v2.
+    link: /projects/valvesense
 
-  - title: Representation Learning
-    details: Siamese-network-based latent space similarity analysis and embedding learning.
+  - title: LatentFit
+    details: LatentFit.
+    link: /projects/latentfit
 
-  - title: AI Systems
-    details: Dockerized AI workflows, Gradio interfaces, and reproducible ML pipelines.
+  - title: Analyzing Human vs. Neural Attention in VQA
+    details: Analyzing Human vs. Neural Attention in VQA.
+    link: /projects/vqaattention
 
-  - title: AI Systems
-    details: Dockerized AI workflows, Gradio interfaces, and reproducible ML pipelines.
+  - title: Image Salience Detection with Bit-Plane Slicing
+    details: Image Salience Detection with Bit-Plane Slicing.
+    link: /projects/imagesalience
 
-  - title: AI Systems
-    details: Dockerized AI workflows, Gradio interfaces, and reproducible ML pipelines.
+  - title: Dist-AI
+    details: Dist-AI.
+    link: /projects/distai
 
-  - title: AI Systems
-    details: Dockerized AI workflows, Gradio interfaces, and reproducible ML pipelines.
+  - title: GazeEval-VLM
+    details: GazeEval-VLM.
+    link: /projects/gazeeval-vlm
 ---
 

@@ -16,7 +16,7 @@ hero:
   
   actions:
     - theme: brand
-      text: Selected Projects
+      text: Projects Portfolio
       link: /projects/
 
     - theme: alt
@@ -28,25 +28,25 @@ hero:
       link: /resume/
 
 features:
-  - title: ValveSense-v2
-    details: ValveSense-v2.
-    link: /projects/valvesense
+  - title: Analyzing Human vs. Neural Attention in VQA
+    details: Analyzing Human vs. Neural Attention in VQA.
+    link: /projects/vqaattention
+
+  - title: Image Salience Analysis
+    details: Image Salience Detection with Bit-Plane Slicing.
+    link: /projects/imagesalience
 
   - title: LatentFit
     details: LatentFit.
     link: /projects/latentfit
 
-  - title: Analyzing Human vs. Neural Attention in VQA
-    details: Analyzing Human vs. Neural Attention in VQA.
-    link: /projects/vqaattention
-
-  - title: Image Salience Detection with Bit-Plane Slicing
-    details: Image Salience Detection with Bit-Plane Slicing.
-    link: /projects/imagesalience
-
   - title: Dist-AI
     details: Dist-AI.
     link: /projects/distai
+    
+  - title: ValveSense-v2
+    details: ValveSense-v2.
+    link: /projects/valvesense
 
   - title: GazeEval-VLM
     details: GazeEval-VLM.
